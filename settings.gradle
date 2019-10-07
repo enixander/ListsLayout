@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':listslayoutlib'
 rootProject.name='ListsLayout'
